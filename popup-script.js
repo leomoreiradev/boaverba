@@ -5,7 +5,7 @@ const popUp = ()=> {
     modal.classList.add('container-pop-up-active')
 }
 
-/*Botão que fecha o pop-up*/
+/*Botão que fecha a janela pop-up*/
 const closePopUp = ()=>{
     const btnClose = document.querySelector('.close')
     btnClose.addEventListener('click',()=>{
