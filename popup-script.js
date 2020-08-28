@@ -1,4 +1,5 @@
  
+ 
 const popUp = ()=> {
     const modal = document.querySelector('#modal-pop-up')
     modal.classList.remove('container-pop-up')
